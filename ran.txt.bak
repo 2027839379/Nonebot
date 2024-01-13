@@ -1,0 +1,11 @@
+requests
+dnspython==2.2.1
+ujson
+nonebot_plugin_imageutils
+ffmpeg
+pillow
+imageio
+thefuzz
+baike
+nonebot-plugin-datastore
+nonebot_plugin_templates

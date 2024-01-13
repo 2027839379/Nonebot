@@ -56,6 +56,6 @@ python bot.py           # 启动
 ```
 
 
-## zhenxun项目地址
+## zhenxunbot
 [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) ：一个超棒的机器人 
  

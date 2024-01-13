@@ -5,6 +5,7 @@
 # Nonebot2
 # 以下为最简部署和配置，如果你有基础并学习过nonebot2的话
 部署需要[py3.8+](https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe)
+
 你可能需要[Postgresql](https://get.enterprisedb.com/postgresql/postgresql-15.1-1-windows-x64.exe)
 ```
 

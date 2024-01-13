@@ -15,8 +15,8 @@ pip install poetry      # 安装 poetry
 poetry install          # 安装依赖
 
 
-# 进行基础配置数据库
-                        # Ubuntu命令行输入
+# 进行基础配置数据库（Ubuntu）
+                        # 命令行输入
 sudo apt update
 sudo apt install postgresql postgresql-contrib
 

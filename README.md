@@ -43,7 +43,7 @@ python bot.py           # 启动
 ```
 1.在.env.dev文件中
 
-  SUPERUSERS = [""]   # 填写你的QQ
+  SUPERUSERS = [""]   # 机器人主人账号
 
 2.在configs/config.py文件中
   * 数据库配置
